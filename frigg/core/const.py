@@ -1,0 +1,1 @@
+DaysPerWeek = 7
